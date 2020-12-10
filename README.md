@@ -8,4 +8,4 @@ Authors: **Yue Hu<sup>1</sup>, Jing Dong<sup>1</sup>, Ohad Perry<sup>2</sup>, Ra
 3.  Department of Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA. 
 4.	Department of Emergency Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL, USA
 
--> Please contact the authors of the paper for guidance or clarification on using the tool.
+Please contact the authors of the paper for guidance or clarification on using the tool.
