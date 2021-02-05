@@ -1,5 +1,5 @@
 ## About
-This repository contains the Microsoft Excel toolbox for the working paper: **Implementation of a patient-flow model to optimize inpatient hospital capacity**. 
+This repository contains the Microsoft Excel toolbox for the working paper: **Use of a Novel Patient-Flow Model to Optimize Hospital Bed Capacity for Medical Patients**. 
 
 <!--- vAuthors: **Yue Hu<sup>1</sup>, Jing Dong<sup>1</sup>, Ohad Perry<sup>2</sup>, Rachel M. Cyrus<sup>3</sup>, Stephanie Gravenor<sup>4</sup>, Michael J. Schmidt<sup>4</sup>**.---> 
 
